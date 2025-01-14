@@ -1,0 +1,4 @@
+{
+    "ignore": ["machine"],
+    "reportMissingImports": false
+}
